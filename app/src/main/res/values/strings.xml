@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string name="ping">Ping!</string>
+    <string name="success">Yay Message Ping</string>
+    <string name="ip_address">IP Address</string>
+    <string name="back">Back</string>
+    <string name="ping_again">Ping Again!</string>
+    <string name="menu">Main Menu</string>
+</resources>
